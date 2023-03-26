@@ -1,0 +1,17 @@
+{
+  "object1": {
+    "name": "John",
+    "age": 25,
+    "city": "New York"
+  },
+  "object2": {
+    "name": "Mary",
+    "age": 30,
+    "city": "Los Angeles"
+  },
+  "object3": {
+    "name": "Bob",
+    "age": 35,
+    "city": "Chicago"
+  }
+}
